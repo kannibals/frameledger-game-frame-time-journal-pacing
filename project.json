@@ -1,0 +1,41 @@
+{
+  "id": 76,
+  "category": "pc-utility",
+  "slug": "game-frame-time-journal",
+  "target": "PC game performance",
+  "appid": null,
+  "summaryRu": "Сравнение импортированных замеров времени кадра с одинаковыми условиями тестирования.",
+  "features": [
+    "Frame-time CSV import",
+    "Percentile comparison table",
+    "Benchmark condition manifest"
+  ],
+  "title": "FrameLedger — PC game performance — Pacing",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "FrameLedger",
+  "repositoryName": "frameledger-game-frame-time-journal-pacing",
+  "githubTopics": [
+    "pc-game-performance",
+    "frame-time",
+    "benchmark-analysis",
+    "csv-import",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "pacing"
+}
